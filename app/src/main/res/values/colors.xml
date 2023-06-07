@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Cores personalizadas-->
+    <color name="dark_blue_300">#396bcb</color>
+    <color name="dark_blue_600">#264685</color>
+</resources>
